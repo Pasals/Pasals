@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pasals
 - 👀 I’m interested in civic literacy, politics and animals :hedgehog: :eagle:
-- 🌱 I’m currently learning semi-advanced ggplot visualization, testscaling and ...
+- 🌱 I’m currently learning semi-advanced ggplot visualizations, testscaling and ...
 - 📫 How to reach me: http://www.ifs.tu-dortmund.de/cms/de/Home/Mitarbeiter/Wissenschaftliche-Mitarbeiter/Alscher-Pascal.html
 
 <!---
